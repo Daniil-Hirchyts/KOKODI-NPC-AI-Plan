@@ -54,9 +54,6 @@ The development of an AI system using the GPT-3 model on the Unreal Engine 5 gam
 ## Approximate Operating Hours
 
 Developing an AI system using the GPT-3 model on the Unreal Engine 5 game engine is a time-consuming process. The required operating hours depend on the size and complexity of the AI system, and the duration of the development process.
-## Requirements
-
-Successfully implementing an AI system using the GPT-3 model on the Unreal Engine 5 game engine requires a team with expertise in machine learning, NLP, and computer vision, access to high-performance computing resources. Additionally, the development team must have access to a large dataset of player behavior to train the GPT-3 model.
 
 ## Conclusion
 
