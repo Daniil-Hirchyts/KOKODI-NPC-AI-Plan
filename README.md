@@ -12,7 +12,6 @@
   - [Testing and Optimization](#testing-and-optimization)
 - [Production Budget and Costs](#production-budget-and-costs)
 - [Approximate Operating Hours](#approximate-operating-hours)
-- [Requirements](#requirements)
 - [Conclusion](#conclusion)
 
 ## Introduction
