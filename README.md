@@ -1,4 +1,4 @@
-# Artificial Intelligence Programming Plan for NPCs using GPT-3 on Unreal Engine 5
+# Artificial Intelligence Programming Plan for NPCs in KOKODI game using GPT-3 on Unreal Engine 5
 
 ## Table of Contents
 
