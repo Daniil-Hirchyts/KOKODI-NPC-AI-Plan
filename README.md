@@ -10,8 +10,6 @@
   - [Real-time Monitoring and Feedback](#real-time-monitoring-and-feedback)
   - [NPC Behavior and Reaction](#npc-behavior-and-reaction)
   - [Testing and Optimization](#testing-and-optimization)
-- [Production Budget and Costs](#production-budget-and-costs)
-- [Approximate Operating Hours](#approximate-operating-hours)
 - [Conclusion](#conclusion)
 
 ## Introduction
@@ -45,14 +43,6 @@ Using the GPT-3 model, NPCs will be programmed to react to the player's actions 
 ### Testing and Optimization
 
 The final step is testing and optimization. During testing, the system will be evaluated using a variety of metrics, such as response time, accuracy, and player engagement. To further improve the system's performance, optimization techniques, such as hyperparameter tuning and cross-validation, will be utilized.
-
-## Production Budget and Costs
-
-The development of an AI system using the GPT-3 model on the Unreal Engine 5 game engine requires significant resources, including personnel, equipment, and software. The budget and costs depend on the size and complexity of the AI system, and the duration of the development process.
-
-## Approximate Operating Hours
-
-Developing an AI system using the GPT-3 model on the Unreal Engine 5 game engine is a time-consuming process. The required operating hours depend on the size and complexity of the AI system, and the duration of the development process.
 
 ## Conclusion
 
